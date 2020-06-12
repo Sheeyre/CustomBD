@@ -1,0 +1,164 @@
+@import url("sourcecheck_vars.css");
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.betterdocs." i], 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="://betterdocs." i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.discordsource." i], 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="://discordsource." i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.betterdiscordlibrary.com/" i], 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://betterdiscordlibrary.com/" i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.betterdiscord.net/" i], 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://betterdiscord.net/" i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://www.betterdiscordlibrary.com/" i], 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscordlibrary.com/" i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://www.betterdiscord.net/" i], 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscord.net/" i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="://sheey.re/" i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="://its.sheey.re/" i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="://sheeyre-assets.my-ni.fr/" i]{
+    position: relative;
+}
+
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.betterdocs." i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="://betterdocs." i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.discordsource." i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="://discordsource." i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.betterdiscordlibrary.com/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://betterdiscordlibrary.com/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.betterdiscord.net/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://betterdiscord.net/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://www.betterdiscordlibrary.com/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscordlibrary.com/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://www.betterdiscord.net/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscord.net/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="://sheey.re/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="://its.sheey.re/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="://sheeyre-assets.my-ni.fr/" i]::after{
+    position: relative !important;
+    top: 3px !important;
+    z-index:0;
+    margin: 0 !important;
+    left: 2px !important;
+}
+
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.discordsource." i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="://discordsource." i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.betterdocs." i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="://betterdocs." i]::after{
+    content: var(--sourcecheck-unsafe-link-icon) !important;
+}
+
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.betterdiscordlibrary.com/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://betterdiscordlibrary.com/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://www.betterdiscordlibrary.com/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscordlibrary.com/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.betterdiscord.net/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://betterdiscord.net/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://www.betterdiscord.net/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscord.net/" i]::after{
+    content: var(--sourcecheck-trusted-link-icon) !important;
+}
+
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="://sheey.re/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="://its.sheey.re/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="://sheeyre-assets.my-ni.fr/" i]::after{
+    content: var(--sourcecheck-official-link-icon) !important;
+}
+
+.embedLink-1G1K1D[href*="://betterdocs." i],
+.container-1YxwTf .markup-2BOw-j a[href*="://betterdocs." i],
+.embedLink-1G1K1D[href*="://discordsource." i],
+.container-1YxwTf .markup-2BOw-j a[href*="://discordsource." i],
+.embedLink-1G1K1D[href^="https://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="https://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="http://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="http://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="https://www.betterdiscord.net/" i],
+.embedLink-1G1K1D[href^="https://betterdiscord.net/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://betterdiscord.net/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://www.betterdiscord.net/" i],
+.embedLink-1G1K1D[href^="http://www.betterdiscord.net/" i],
+.embedLink-1G1K1D[href^="//sheey.re/" i],
+.embedLink-1G1K1D[href^="://its.sheey.re/" i],
+.embedLink-1G1K1D[href^="://sheeyre-assets.my-ni.fr/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://betterdiscord.net" i],
+.container-1YxwTf .markup-2BOw-j a[href^="://sheey.re/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="://its.sheey.re/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="://sheeyre-assets.my-ni.fr/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://www.betterdiscord.net/" i] {
+    font-weight: 600;
+}
+
+
+html body #app-mount .embedLink-1G1K1D[href*="://betterdocs." i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j .anchor-3Z-8Bb:not(.channelLink-2TxEu3):not(.guildsError-3cFMtY):not(.guildsError-b7zR5H):not(.embedAuthorName-3mnTWj):not(.downloadButton-1bWXpg):not(.downloadLink-1ywL9o)[href*="://betterdocs." i],
+html body #app-mount .embedLink-1G1K1D[href*="://discordsource." i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j .anchor-3Z-8Bb:not(.channelLink-2TxEu3):not(.guildsError-3cFMtY):not(.guildsError-b7zR5H):not(.embedAuthorName-3mnTWj):not(.downloadButton-1bWXpg):not(.downloadLink-1ywL9o)[href*="://discordsource." i] {
+    color: var(--sourcecheck-unsafe) !important;
+    pointer-events: none;
+}
+
+.embedLink-1G1K1D[href^="https://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="https://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="http://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="http://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="https://www.betterdiscord.net/" i],
+.embedLink-1G1K1D[href^="https://betterdiscord.net/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://betterdiscord.net/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://www.betterdiscord.net/" i],
+.embedLink-1G1K1D[href^="http://www.betterdiscord.net/" i],
+.embedLink-1G1K1D[href^="http://betterdiscord.net/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://betterdiscord.net" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://www.betterdiscord.net/" i]{
+    color: var(--sourcecheck-trusted) !important;
+}
+
+.embedLink-1G1K1D[href^="://sheey.re/" i],
+.embedLink-1G1K1D[href^="://its.sheey.re/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="://sheey.re/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="://its.sheey.re/" i],
+.embedLink-1G1K1D[href^="//sheeyre-assets.my-ni.fr/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="//sheeyre-assets.my-ni.fr/" i]{
+    color: var(--sourcecheck-official) !important;
+}
+
+.embedLink-1G1K1D[href*="://betterdocs." i]::selection,
+.container-1YxwTf .markup-2BOw-j a[href*="://betterdocs." i]::selection,
+.embedLink-1G1K1D[href*="://betterdocs." i],
+.container-1YxwTf .markup-2BOw-j a[href*="://betterdocs." i],
+.embedLink-1G1K1D[href*="://discordsource." i]::selection,
+.container-1YxwTf .markup-2BOw-j a[href*="://discordsource." i]::selection,
+.embedLink-1G1K1D[href*="://discordsource." i],
+.container-1YxwTf .markup-2BOw-j a[href*="://discordsource." i]{
+    background-color: transparent !important;
+}
+
+.markup-2BOw-j .anchor-3Z-8Bb[href="https://discordapp.com/invite/VzjCrtM" i] {
+    pointer-events: none !important;
+    font-size:0;
+}
+
+html body #app-mount .guildIcon-VlWW86[style*='/icons/153708594091655168'] {
+    background-image: var(--sourcecheck-unsafe-server-icon) !important;
+}
+
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D::after {
+    background-repeat: no-repeat !important;
+    border-radius: 0 5px !important;
+    color:var(--sourcecheck-unsafe-embed-badge-fg) !important;
+    font-size: 12px !important;
+    font-weight: 400 !important;
+    line-height: 1.3 !important;
+    padding: 1px 4px 1px 18px !important;
+    pointer-events: none !important;
+    position: absolute !important;
+    right: 0 !important;
+    top: 0 !important;
+    z-index: 3 !important;
+}
